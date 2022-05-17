@@ -58,7 +58,7 @@
  <description>ATT&CK T1547.001: Potential Run Key Persistence Setup</description>
  <group>MITRE,attack.t1547.001</group>
  <mitre>
-    <id>T1547</id>
+    <id>T1547.001</id>
  </mitre>
  </rule>
 
@@ -88,7 +88,7 @@
  <description>Run Key Persistence Detected</description>
  <group>MITRE,attack.t1547.001</group>
  <mitre>
-    <id>T1547</id>
+    <id>T1547.001</id>
  </mitre>
  </rule>
 
@@ -98,7 +98,7 @@
  <description>ATT&CK T1547.001: Powershell in registry, potential malicious persistence</description>
  <group>MITRE,attack.t1547.001</group>
  <mitre>
-    <id>T1547</id>
+    <id>T1547.001</id>
  </mitre>
  </rule>
 
@@ -108,7 +108,7 @@
  <description>ATT&CK T1547.001: Potential Run Key Persistence Setup</description>
  <group>MITRE,attack.t1547.001</group>
  <mitre>
-    <id>T1547</id>
+    <id>T1547.001</id>
  </mitre>
  </rule>
 
@@ -119,7 +119,7 @@
  <description>ATT&CK T1505.003: Potential Webshell from IIS</description>
  <group>MITRE,attack.t1505.003</group>
  <mitre>
-    <id>T1505</id>
+    <id>T1505.003</id>
  </mitre>
  </rule>
 

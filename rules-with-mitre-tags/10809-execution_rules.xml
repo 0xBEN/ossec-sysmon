@@ -528,7 +528,7 @@
  <description>ATT&CK T1021.002: Execute command writing output to local Admin Share</description>
  <group>MITRE,attack.t1021.002,sysmon</group>
  <mitre>
-    <id>T1021</id>
+    <id>T1021.002</id>
  </mitre>
  </rule>
 
@@ -539,7 +539,7 @@
  <description>ATT&CK T1505.003: Potential webshell interaction</description>
  <group>MITRE,attack.t1505.003,sysmon</group>
  <mitre>
-    <id>T1505</id>
+    <id>T1505.003</id>
  </mitre>
  </rule>
 </group>

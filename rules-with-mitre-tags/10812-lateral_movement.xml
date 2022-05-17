@@ -24,9 +24,9 @@
  <if_sid>255700</if_sid>
  <regex>%COMSPEC%</regex>
  <description>ATT&CK T1543.003: %COMSPEC% Variable in Registry Service, potential lateral movement or persistence mechanism</description>
- <group>MITRE,attack.t1543.001</group>
+ <group>MITRE,attack.t1543.003</group>
  <mitre>
-    <id>T1543</id>
+    <id>T1543.003</id>
  </mitre>
  </rule>
 
@@ -47,7 +47,7 @@
  <description>ATT&CK T1021.002: Remote System C$ drive mounted</description>
  <group>MITRE,attack.t1021.002</group>
  <mitre>
-    <id>T1021</id>
+    <id>T1021.002</id>
  </mitre>
  </rule>
 
@@ -58,7 +58,7 @@
  <description>ATT&CK T1550.002: Potential Pass the Hash Attack</description>
  <group>MITRE,attack.t1550.002</group>
  <mitre>
-    <id>T1550</id>
+    <id>T1550.002</id>
  </mitre>
  </rule>
 

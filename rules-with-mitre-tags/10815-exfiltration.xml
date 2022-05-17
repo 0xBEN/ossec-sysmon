@@ -5,7 +5,7 @@
  <field name="win.eventdata.product">Rclone</field>
  <description>T1567.002 Rclone potential data exfiltration</description>
  <mitre>
-    <id>T1567</id>
+    <id>T1567.002</id>
  </mitre>
  </rule>
 
@@ -14,7 +14,7 @@
  <field name="win.eventdata.product">Rclone</field>
  <description>T1567.002 Rclone potential data exfiltration</description>
  <mitre>
-    <id>T1567</id>
+    <id>T1567.002</id>
  </mitre>
  </rule>
 
